@@ -1,168 +1,184 @@
-<h1 align="center">Hi 👋, I'm Giri Prasath</h1>
+<div align="center">
 
-<h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Giri%20Prasath&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js+%E2%9A%A1;Always+Learning+New+Technologies+%F0%9F%8C%B1;Let's+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/giri-prasath-s-5a6178283">
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/giriwebsitedesigner/myportfolio">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:websitedesignerwolf@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=giriwebsitedesigner&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 About Me
 
-- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
+```javascript
+const giriPrasath = {
+    role: "Full Stack Web Developer",
+    focus: "Creating responsive, user-friendly web applications",
+    currentlyLearning: ["Next.js", "TypeScript", "Cloud Technologies"],
+    collaboration: "Open to exciting web dev & open-source projects",
+    funFact: "I love solving coding challenges and building useful apps ⚡"
+};
+```
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🌐 Connect With Me
+### 🎯 What I Do
+- 💻 Build responsive & user-friendly web apps
+- 🚀 Turn ideas into real-world projects
+- 🌱 Exploring **Next.js, TypeScript & Cloud**
+- 🤝 Open to collaboration & open source
 
-<p align="left">
-<a href="https://www.linkedin.com/in/giri-prasath-s-5a6178283">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
+- 📍 Based in India
+- 🎓 Continuous learner
+- 🧩 Coding challenge enthusiast
+- 📬 Reach me anytime via email
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"/>
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/>
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite&theme=dark"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/giriwebsitedesigner/myportfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
+</a>
+<a href="https://github.com/giriwebsitedesigner/greenlifehomehealth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=greenlifehomehealth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
+</a>
+<br/>
+<a href="https://github.com/giriwebsitedesigner/echosmoments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=echosmoments&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
 </a>
 
-<a href="mailto:websitedesignerwolf@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+</div>
 
----
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🌍 **My Portfolio** | Modern personal portfolio showcasing projects, skills, and experience | `HTML` | [Repo](https://github.com/giriwebsitedesigner/myportfolio) |
+| 🏡 **Green Life Home Health** | A clean, CSS-driven healthcare website project | `CSS` | [Repo](https://github.com/giriwebsitedesigner/greenlifehomehealth) |
+| 📸 **Echos Moments** | A photography/moments showcase web project | `HTML` | [Repo](https://github.com/giriwebsitedesigner/echosmoments) |
 
-# 💻 Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-# 🚀 Featured Projects
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=giriwebsitedesigner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giriwebsitedesigner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
 
-## 🌍 My Portfolio
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giriwebsitedesigner&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=06B6D4"/>
 
-Modern personal portfolio showcasing projects, skills, and experience.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giriwebsitedesigner&theme=tokyo-night&bg_color=0D1117&color=06B6D4&line=6366F1&point=EC4899&hide_border=true"/>
 
-**Tech Stack**
+</div>
 
-`HTML`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-🔗 Repository: https://github.com/giriwebsitedesigner/myportfolio
+## 🏆 GitHub Trophies
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=giriwebsitedesigner&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+</div>
 
-## 🏡 Green Life Home Health
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-A project built with CSS-based styling.
+## 🛠 Currently Working On
 
-**Tech Stack**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`CSS`
+### 🌱 Building & Learning
+- 🚀 Full-stack web applications
+- ⚛️ Advanced React ecosystem
+- ☁️ Cloud deployment & DevOps
+- 📱 Responsive UI/UX design
 
-🔗 Repository: https://github.com/giriwebsitedesigner/greenlifehomehealth
+</td>
+<td width="50%" valign="top">
 
----
-
-## 📸 Echos Moments
-
-A web project built with HTML.
-
-**Tech Stack**
-
-`HTML`
-
-🔗 Repository: https://github.com/giriwebsitedesigner/echosmoments
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=giriwebsitedesigner&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giriwebsitedesigner&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giriwebsitedesigner&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giriwebsitedesigner&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=giriwebsitedesigner&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🛠 Currently Working On
-
-- 🚀 Building full-stack web applications.
-- 🌱 Learning advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
-
----
-
-# 📚 Currently Learning
-
-- TypeScript
-- Next.js
-- Docker
-- AWS
+### 📚 Currently Learning
+- TypeScript · Next.js
+- Docker · AWS
 - System Design
 - Backend Architecture
 
----
+</td>
+</tr>
+</table>
 
-# 🎯 Goals for 2026
+## 🎯 Goals for 2026
 
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
+- [x] Contribute to Open Source
+- [x] Build SaaS Applications
+- [x] Master Full Stack Development
+- [ ] Learn Cloud Computing
+- [ ] Grow My Developer Portfolio
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-# 💡 Favorite Quote
+<div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 💡 Favorite Quote
 
----
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — Cory House
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=giriwebsitedesigner&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+<br/>
 
----
+### ⭐ Thanks for visiting my profile! ⭐
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-<p align="center">
 If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
