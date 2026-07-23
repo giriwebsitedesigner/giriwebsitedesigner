@@ -1,184 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Giri%20Prasath&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Giri%20Prasath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js+%E2%9A%A1;Always+Learning+New+Technologies+%F0%9F%9A%80;Let's+Build+Something+Awesome!+%E2%9C%A8"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js+%E2%9A%A1;Always+Learning+New+Technologies+%F0%9F%8C%B1;Let's+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/giri-prasath-s-5a6178283">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/giriwebsitedesigner/myportfolio">
-  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:websitedesignerwolf@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=giriwebsitedesigner&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=giriwebsitedesigner&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 About Me
 
-```javascript
-const giriPrasath = {
-    role: "Full Stack Web Developer",
-    focus: "Creating responsive, user-friendly web applications",
-    currentlyLearning: ["Next.js", "TypeScript", "Cloud Technologies"],
-    collaboration: "Open to exciting web dev & open-source projects",
-    funFact: "I love solving coding challenges and building useful apps ⚡"
-};
+```yaml
+name: Giri Prasath
+role: Full Stack Web Developer
+focus: Building responsive, user-friendly, modern web applications
+currently_learning: [Next.js, TypeScript, Cloud Technologies]
+open_to: Collaborating on web development & open-source projects
+fun_fact: "I love solving coding challenges and building useful applications"
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 What I Do
-- 💻 Build responsive & user-friendly web apps
-- 🚀 Turn ideas into real-world projects
-- 🌱 Exploring **Next.js, TypeScript & Cloud**
-- 🤝 Open to collaboration & open source
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick Facts
-- 📍 Based in India
-- 🎓 Continuous learner
-- 🧩 Coding challenge enthusiast
-- 📬 Reach me anytime via email
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"/>
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/>
-
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite&theme=dark"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/giriwebsitedesigner/myportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=myportfolio&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/giriwebsitedesigner/greenlifehomehealth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=greenlifehomehealth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=greenlifehomehealth&theme=tokyonight&hide_border=true"/>
 </a>
-<br/>
 <a href="https://github.com/giriwebsitedesigner/echosmoments">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=echosmoments&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giriwebsitedesigner&repo=echosmoments&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🌍 **My Portfolio** | Modern personal portfolio showcasing projects, skills, and experience | `HTML` | [Repo](https://github.com/giriwebsitedesigner/myportfolio) |
-| 🏡 **Green Life Home Health** | A clean, CSS-driven healthcare website project | `CSS` | [Repo](https://github.com/giriwebsitedesigner/greenlifehomehealth) |
-| 📸 **Echos Moments** | A photography/moments showcase web project | `HTML` | [Repo](https://github.com/giriwebsitedesigner/echosmoments) |
+| Project | Description | Tech |
+|---|---|---|
+| 🌍 [My Portfolio](https://github.com/giriwebsitedesigner/myportfolio) | Modern personal portfolio showcasing projects, skills, and experience | `HTML` |
+| 🏡 [Green Life Home Health](https://github.com/giriwebsitedesigner/greenlifehomehealth) | A healthcare-focused site built with clean, styled layouts | `CSS` |
+| 📸 [Echos Moments](https://github.com/giriwebsitedesigner/echosmoments) | A photography/moments showcase web project | `HTML` |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=giriwebsitedesigner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giriwebsitedesigner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=giriwebsitedesigner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giriwebsitedesigner&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giriwebsitedesigner&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=06B6D4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giriwebsitedesigner&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giriwebsitedesigner&theme=tokyo-night&bg_color=0D1117&color=06B6D4&line=6366F1&point=EC4899&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giriwebsitedesigner&theme=tokyo-night&hide_border=true" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=giriwebsitedesigner&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=giriwebsitedesigner&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🛠 Currently Working On
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🚀 Building full-stack web applications
+- 🌱 Learning the advanced React ecosystem
+- ☁️ Exploring cloud deployment and DevOps
+- 📱 Improving responsive UI/UX design
 
-### 🌱 Building & Learning
-- 🚀 Full-stack web applications
-- ⚛️ Advanced React ecosystem
-- ☁️ Cloud deployment & DevOps
-- 📱 Responsive UI/UX design
+## 📚 Currently Learning
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📚 Currently Learning
-- TypeScript · Next.js
-- Docker · AWS
-- System Design
-- Backend Architecture
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-4B5563?style=flat-square&logo=blueprint&logoColor=white)
+![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-2C5364?style=flat-square)
 
-</td>
-</tr>
-</table>
+</div>
 
 ## 🎯 Goals for 2026
 
 - [x] Contribute to Open Source
 - [x] Build SaaS Applications
 - [x] Master Full Stack Development
-- [ ] Learn Cloud Computing
-- [ ] Grow My Developer Portfolio
+- [x] Learn Cloud Computing
+- [x] Grow My Developer Portfolio
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💡 Favorite Quote
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — Cory House
+<div align="center">
 
-<br/>
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<p align="center">If you like my work, consider giving a ⭐ to my repositories and connecting with me.</p>
